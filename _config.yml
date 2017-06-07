@@ -3,6 +3,7 @@ title: Qing
 description: Welcome to my blog :)
 url: fengqing.me
 logo: qing.png                                       # Site logo
+locale: en_US
 
 # Left Block Images
 background:
