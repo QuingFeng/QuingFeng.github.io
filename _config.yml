@@ -1,9 +1,15 @@
 # Site
 title: Qing
+<<<<<<< HEAD
 description: Stylish, Two-Column Jekyll Theme
 url: https://taylantatli.github.io/Halve
 logo: halve.png                                       # Site logo
 locale: en_US
+=======
+description: Welcome to my blog :)
+url: https://QuingFeng.github.io/
+logo: qing.png                                       # Site logo
+>>>>>>> 3ba2257b8dd7efae882842bd484b62c5f8d70766
 
 # Left Block Images
 background:
